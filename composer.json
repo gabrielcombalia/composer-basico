@@ -1,0 +1,11 @@
+{
+    "name": "gabriel/composerbasico",
+    "type": "library",
+    "authors": [
+        {
+            "name": "gabrielcombalia",
+            "email": "gabrielcombalia@hotmail.com"
+        }
+    ],
+    "require": {}
+}
